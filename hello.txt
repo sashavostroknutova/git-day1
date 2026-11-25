@@ -11,3 +11,4 @@ New main commit for rebase demo
 Rebase commit 1
 Èçìåíåíèå ÷åðåç GitExtension
 Изменение через GitHub веб
+GUI feature branch change
