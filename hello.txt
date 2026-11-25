@@ -13,4 +13,5 @@ Rebase commit 1
 Main branch conflict change
 РР·РјРµРЅРµРЅРёРµ С‡РµСЂРµР· GitHub РІРµР±
 GUI feature branch change
+Студент Вострокнутова Александра
 
